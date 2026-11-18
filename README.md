@@ -65,16 +65,22 @@ Raw CSVs (Kaggle)
 
 ## Dashboard Preview
 
-**Page 1 — Executive Overview**
-> R\$ 15,665,892 total revenue · 99,441 orders · 4.08 avg review · 92.1% on-time delivery
+### 📊 Executive Overview & Financial Health
+![Executive Overview](images/executive_overview.png)
 
-**Page 2 — Customer Intelligence (RFM)**
-> 94,697 unique customers · 15,471 Champions · 90%+ one-time buyers
+> **Key Metrics:** R$ 15,665,892 total revenue · 99,441 orders · 4.08 avg review · 92.1% on-time delivery
 
-**Page 3 — Operations & Delivery**
-> Late rate 7.9% · Avg 12.5 days delivery · ML ROC-AUC 0.67
+### 👤 Customer Intelligence & RFM Segmentation
+![Customer Intelligence](images/customer_intelligence_rfm.png)
 
-📊 **[Open Dashboard](dashboard/ecommerce_dashboard.html)**
+> **Customer Insights:** 94,697 unique customers · 15,471 Champions · 90%+ one-time buyers
+
+### 🚚 Operations, Delivery SLAs & Predictive Delay Model
+![Operations & ML](images/operations_delivery_ml.png)
+
+> **Operational SLA:** Late rate 7.9% · Avg 12.5 days delivery · ML Delay Classifier ROC-AUC 0.6748
+
+📊 **[Open Interactive HTML Dashboard](dashboard/ecommerce_dashboard.html)** | 📘 **[Power BI Implementation Guide](dashboard/POWER_BI_GUIDE.md)**
 
 ---
 
