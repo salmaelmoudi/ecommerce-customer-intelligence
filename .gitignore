@@ -1,0 +1,24 @@
+# Data files (raw & heavy exports)
+data/
+*.csv
+*.zip
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+dashboard/test_*.html
